@@ -1,0 +1,7 @@
+---
+ref: github_actions_demo
+name: GitHub Actions Demo
+description: Practice pack for automated StackStorm deployment
+version: 1.0.0
+author: Nafreen
+email: practice@example.com

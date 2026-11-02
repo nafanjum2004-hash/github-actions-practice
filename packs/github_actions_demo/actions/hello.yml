@@ -1,0 +1,6 @@
+---
+name: hello
+runner_type: python-script
+description: A simple Hello World action
+enabled: true
+entry_point: hello.py
